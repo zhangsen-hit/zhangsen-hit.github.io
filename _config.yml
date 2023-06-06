@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhang Sen / 张森"
 title_separator          : "-"
-name                     : &name "Zhang Sen(张森)"
+name                     : &name "Zhang Sen"
 description              : &description "PhD student at Harbin Institute of Technology"
 url                      : https://zhangsen-hit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
