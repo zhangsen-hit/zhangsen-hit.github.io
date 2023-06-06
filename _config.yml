@@ -85,10 +85,10 @@ author:
   bio              : "Phd student at Harbin institute of Technology"
   location         : "Harbin, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=dcpXPeEAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Sen_Zhang49"
+  researchgate     : "https://www.researchgate.net/profile/Sen_Zhang49"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhangsen-hit"
+  github           : "zhangsen-hit"
   google_plus      :
   keybase          :
   instagram        :
