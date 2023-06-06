@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhang Sen's home on the web
-
 I am a PhD student at HIT
