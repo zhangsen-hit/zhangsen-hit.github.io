@@ -8,10 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at State Key Laboratory of Robotics and System, Harbin Institute of Technology(HIT).
+I am a PhD student at State Key Laboratory of Robotics and System, School of Mechatronics Engineering, Harbin Institute of Technology(HIT).
 
 I am committed to ensuring the secure interaction of robots with the world by employing **brain-inspired** machine vision technology, which empowers the robots with **high-speed perception and comprehensive understanding** of the world. My research interest now lies in **spiking neural networks** (SNN), **event-based camera** and so on.
 
-And I am also interested in **SLAM** (Simultaneous Localization and Mapping) and **Autonomous driving** because my research subjects when I pursued my master’s degree in HIT.
+I am also interested in **SLAM** (Simultaneous Localization and Mapping), **autonomous navigation** and **Autonomous driving** because my research subjects when I pursued my master’s degree in HIT.
 
+And I am also interested in some robot competitions because I participated in [Robomaster](https://www.robomaster.com/) as the captain in my undergraduate stage.
 
+----
+
+我是哈尔滨工业大学机电工程学院机器人技术与系统国家重点实验室的在读博士研究生。
+
+我的研究课题是通过**类脑**视觉技术为机器人赋予**高速感知与理解**能力，进而为机器人与世界的安全交互提供保障。我的主要研究兴趣点在于**脉冲神经网络**、**事件相机**（神经形态相机）等。
+
+我对**SLAM**技术、**自主导航**技术和**自动驾驶**也比较感兴趣因为这是我硕士期间的研究课题。
+
+本科期间作为队长参与过[Robomaster](https://www.robomaster.com/)比赛，所以对各类机器人赛事也比较感兴趣。
