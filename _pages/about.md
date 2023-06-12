@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at State Key Laboratory of Robotics and System, School of Mechatronics Engineering, Harbin Institute of Technology(HIT).I am committed to ensuring the secure interaction of robots with the world by employing <u>brain-inspired</u> machine vision technology, which empowers the robots with high-speed perception and comprehensive understanding of the world. My research interest now lies in <u>spiking neural networks</u> (SNN), <u>event-based camera</u> and so on.
+I am a PhD student at State Key Laboratory of Robotics and System, School of Mechatronics Engineering, Harbin Institute of Technology (HIT).I am committed to ensuring the secure interaction of robots with the world by employing <u>brain-inspired</u> machine vision technology, which empowers the robots with high-speed perception and comprehensive understanding of the world. My research interest now lies in <u>spiking neural networks</u> (SNN), <u>event-based camera</u> and so on.
 
 I am also interested in <u>SLAM</u>, <u>autonomous navigation</u> and <u>Autonomous driving</u> because my research subjects when I pursued my master’s degree in HIT.And I am also interested in some robot competitions because I participated in [Robomaster](https://www.robomaster.com/) as the captain in my undergraduate stage.
 
